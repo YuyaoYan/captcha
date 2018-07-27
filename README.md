@@ -6,4 +6,4 @@
 ![console](https:\\github.com\YuyaoYan\captcha\raw\master\readmeImg\console.jpg)
 
 ##### 
-![返回前端的图片](C:\Users\Administrator\Desktop\v\1.jpg)
+![返回前端的图片](https:\\github.com\YuyaoYan\captcha\raw\master\readmeImg\result.jpg)
